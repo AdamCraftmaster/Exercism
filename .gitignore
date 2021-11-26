@@ -246,3 +246,6 @@ gradle-app.setting
 
 # DeepCode cache file
 .dccache
+
+# Gradle build folder
+bin/
